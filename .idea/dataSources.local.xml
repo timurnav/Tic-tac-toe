@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - tictactoe@localhost" uuid="a7d33f6e-0010-4ecd-ac35-906c5ae62c94">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>tictactoe.*</schema-pattern>
+      <default-schemas>tictactoe.*</default-schemas>
+    </data-source>
+  </component>
+</project>
